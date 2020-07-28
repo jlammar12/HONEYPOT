@@ -21,8 +21,7 @@ Time spent: **48** hours spent in total
 ## Assets
 
 Uploaded session.json to GitHub repo.
-Couldnt access data work in progress
-
+https://github.com/jlammar12/HONEYPOT/blob/master/sessions.json
 
 ## Notes
 
